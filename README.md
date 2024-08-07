@@ -7,7 +7,7 @@
 
 - 👯 I’m currently working on [CodeVimarsh](https://github.com/KaushalDanani/coding-club-codevimarsh)
 
-- 💬 Ask me about **Java, Problem solving, Javascript, ReactJS, NodeJS, SpringBoot, NodeJS,**
+- 💬 Ask me about **Java, Problem solving, Javascript, ReactJS, NodeJS, SpringBoot**
 
 - 📫 How to reach me **jayf29112003@gmail.com**
 
