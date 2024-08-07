@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1qGn0pm1g6oZsi3JZ6cUxqQNcgyxW41k8/view?usp=sharing](https://drive.google.com/file/d/1qGn0pm1g6oZsi3JZ6cUxqQNcgyxW41k8/view?usp=sharing)
 
-- ⚡ Fun fact **A chess enthusiast! :) Wanna a play a match?**
+- ⚡ Fun fact **A chess enthusiast! :) Wanna play a match?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
